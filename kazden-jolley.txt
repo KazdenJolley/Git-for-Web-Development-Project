@@ -1,27 +1,50 @@
 link to finished codepen: https://codepen.io/kazdenjolley/pen/rNjzrxQ?editors=1100
 
     1. What is Semantic HTML? 
+        html that uses elements that are human and machine readable.
     2. What is HTML used for? 
+        Structuring website
     3. What is an attribute and where do we put it? 
+        Attribute goes inside of opening html tag
     4. What is the h1 tag used for? How many times should I use it on a page?
+        h1 is for the main header. It should only be used one time.
     5. Name two tags that have required attributes
+        anchor tag and image tag
     6. What do we put in the head of our HTML document? 
+        information about the document
     7. What is an id? 
+        html attribute used to identify a certain elements  
     8. What elements can I add an id to? 
+        any html element
     9. How many times can I use the same id on a page? 
+        one time
     10. What is a class? 
+        html attribute
     11. What elements can I add a class to? 
+        any html element
     12. How many times can I use the same class on a page? 
+        as many times as I want
     13. How do I get my link to open in a new tab?
+        use target="_blank" attribute
     14. What is the alt attribute in the image tag used for? 
+        naming the image for someone who can't see it
     15. How do I reference an id?
+        id="id_name"
     16. What is the difference between a section and a div
+        a section is semantic for a section of the page. A div can be any chunk of html
     17. What is CSS used for? 
+        styling the sheet
     18. How to we select an element? Example - every h2 on the page
+        h2{declaration}
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
+        id is for identifying a specific html element and is only used once <div id="special_div">
+        class is used for styling one or more pieces of html. css is reused. <section class="favorite">
     20. How do we select classes in CSS?
+        .classname
     21. How do we select a p element with a single class of “human””?
+        p.human{declaration}
     22. What is a parent child selector? When would this be useful? 
+        
     23. How do you select all links within a div with the class of sidebar?
     24. What is a pseudo selector?
     25. What do we use the change the spacing between lines?
